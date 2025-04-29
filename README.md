@@ -15,14 +15,6 @@ This project contains a dynamic Excel dashboard designed for analyzing coffee sh
 - **Microsoft Excel** (Pivot Tables, Pivot Charts, Slicers, Conditional Formatting)
 - **Data Cleaning and Preparation** in Excel
 
-## 📁 Files
-
-- `Excel Final DashBoard.xlsx`: The main Excel file containing the complete dashboard.
-
-## 📸 Preview
-
-> *(Insert a screenshot of your dashboard here)*
-
 ## 🚀 How to Use
 
 1. Open the `Excel Final DashBoard.xlsx` file using Microsoft Excel.
